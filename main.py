@@ -1,5 +1,5 @@
 import streamlit as st
-from googlesearch import search
+from googlesearch import *
 import pandas as pd
 from tqdm import tqdm  # Import tqdm for the progress bar
 
